@@ -4,6 +4,8 @@
 
 # Build For Server
 
+npm install
+
 Do this one in Local PC in Visual Studio tool
 
 ng build --base-href=http://ggl.neotural.com/ --prod --aot
@@ -20,5 +22,6 @@ Restart Apache service if require
 
 # Install NPM
 npm install
+
 
 
