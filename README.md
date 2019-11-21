@@ -9,6 +9,8 @@ npm install
 Do this one in Local PC in Visual Studio tool
 
 ng build --base-href=http://ggl.neotural.com/ --prod --aot
+or
+ng build --base-href=http://ggl.neotural.com/ --prod --aot=false --buildOptimizer=false
 
 copy only dist folder
 
